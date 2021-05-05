@@ -3,7 +3,8 @@
 ## Comandos para executar o projeto
 #Composer install
 #npm install
-#artisan key generate
+#artisan key:generate
+#php artisan migrate:fresh
 #npm run watch
 #php artisan serve 
 
