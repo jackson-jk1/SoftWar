@@ -1,9 +1,10 @@
 
 
 ## Comandos para executar o projeto
+configure o seu .env
 #Composer install
 #npm install
-#artisan key:generate
+#php artisan key:generate
 #php artisan migrate:fresh
 #npm run watch
 #php artisan serve 
